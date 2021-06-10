@@ -13,7 +13,7 @@ Com minha carreira
 - 🤔 I’m looking for help with ...
 Passar de ano
 
-- 💬 Ask me about ...
+- 💬 Ask me about:
 Jogos
 
 - 📫 How to reach me:
