@@ -1,8 +1,5 @@
 ### Hi there 👋
-<!--
-**JaumPOS/JaumPOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
 Etudante
@@ -24,6 +21,6 @@ sei la
 
 - 😄 Pronouns:
 Ele/Dele
-- ⚡ Fun fact:
 
--->
+- ⚡ Fun fact:
+Sei la
