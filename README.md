@@ -23,4 +23,4 @@ sei la
 Ele/Dele
 
 - ⚡ Fun fact:
-Sei la
+Minha imagem de perfil é propositalmente assim
