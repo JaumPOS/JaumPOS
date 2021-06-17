@@ -17,7 +17,7 @@ Passar de ano
 Jogos
 
 - 📫 How to reach me:
-sei la
+aiai uuiui
 
 - 😄 Pronouns:
 Ele/Dele
