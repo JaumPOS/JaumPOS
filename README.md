@@ -24,3 +24,4 @@ Ele/Dele
 
 - ⚡ Fun fact:
 Minha imagem de perfil é propositalmente assim
+🍑🍑🍑
