@@ -17,5 +17,6 @@ Eu gosto muito de Tetris, link do meu perfil no [Tetr.io](https://ch.tetr.io/u/p
 Meu anime favorito é *Tengen Toppa Gurren Lagann*
 
 
-A versão de melhro qualidade da minha imagem de perfil:
+A minha imagem de perfil é propositalmente assim e essa é a versão original dela:
+
 ![Alexis Kerib do Anime SSSS.Gridman](Alexis.jpg)
