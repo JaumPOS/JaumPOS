@@ -1,10 +1,10 @@
 # **JaumPOS**
 ## Quem sou eu?
-Sou João Pedro, um estudante Brasileiro aprendendo informática em um colégio integrado ao ensino médio. Ele/Dele ou qualquer outro.
+Sou João Pedro, um estudante Brasileiro aprendendo informática em um colégio integrado ao ensino médio. Ele/Dele ou qualquer outra coisa
 ## O que procuro aqui e quero ajuda com?
 Busco aprender mais e melhorar meus conhecimentos sobre informática.
 ## Sobre o que falar comigo?
-Jogos, Animes, Mangas, Livros e assuntos aleatorios.
+Jogos, Animes, Mangas, pouquissimos livros e assuntos aleatorios.
 ## Meu E-mail e minhas redes sociais:
 Email: joaopedroocana@gmail.com
 
